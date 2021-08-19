@@ -50,4 +50,6 @@ int main()
         l = l->next;
     }
     cout << endl;
+    
+    return 0;
 }
