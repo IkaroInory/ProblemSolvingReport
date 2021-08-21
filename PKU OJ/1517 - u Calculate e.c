@@ -1,4 +1,5 @@
 ﻿#include <stdio.h>
+
 int factor(int n)
 {
     int s = 1;
