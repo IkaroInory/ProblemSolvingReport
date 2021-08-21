@@ -1,8 +1,4 @@
-﻿#include <iostream>
-
-using namespace std;
-
-struct ListNode {
+﻿struct ListNode {
     int val;
     ListNode* next;
     ListNode() : val(0), next(nullptr) {}
@@ -36,20 +32,7 @@ public:
             l1 = l1->next;
             l2 = l2->next;
         }
+        
         return ans;
     }
 };
-
-int main()
-{
-    ListNode* l1 = new ListNode(2, new ListNode(4, new ListNode(3)));
-    ListNode* l2 = new ListNode(5, new ListNode(6, new ListNode(4)));
-    ListNode* l = (new Solution())->addTwoNumbers(l1, l2);
-    while (l) {
-        cout << l->val;
-        l = l->next;
-    }
-    cout << endl;
-    
-    return 0;
-}

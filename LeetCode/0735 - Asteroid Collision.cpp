@@ -1,4 +1,7 @@
-﻿class Solution {
+﻿//
+// vector - #include <vector>
+//
+class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         vector<int> stack;

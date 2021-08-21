@@ -1,9 +1,6 @@
-﻿#include <iostream>
-#include <vector>
-#include <map>
-
-using namespace std;
-
+﻿//
+// map - #include <map>
+//
 class Solution {
 public:
     map<char, int> roman = {
@@ -25,24 +22,7 @@ public:
                 ans += roman[i] - roman[s[i - 1]];
             }
         }
+
         return ans;
     }
 };
-
-int main()
-{
-    vector<string> height = {
-        "MCMXCIV",
-        "III",
-        "IV",
-        "IX",
-        "LVIII"
-    };
-
-    for (int i = 0; i < height.size(); i++) {
-        cout << "Input: \"" << height[i] << "\"" << endl;
-        cout << "Output: " << (new Solution())->romanToInt(height[i]) << endl;
-    }
-
-    return 0;
-}

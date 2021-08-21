@@ -1,10 +1,4 @@
-﻿#include <iostream>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
- 
-class Solution {
+﻿class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int c1 = nums1.size();
@@ -17,12 +11,3 @@ public:
         else return (nums1[(size) / 2 - 1] + nums1[(size) / 2]) / 2.0;
     }
 };
-
-int main()
-{
-    vector<int> nums1 = { 1,3 };
-    vector<int> nums2 = { 2 };
-    double num = (new Solution())->findMedianSortedArrays(nums1, nums2);
-    cout << num << endl;
-    return 0;
-}
