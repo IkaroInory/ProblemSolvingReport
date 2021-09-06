@@ -7,7 +7,7 @@ int main()
     int T;
     cin >> T;
     while (T--) {
-        int temp;
+        float temp;
         cin >> temp;
 
         char mark = 0;
