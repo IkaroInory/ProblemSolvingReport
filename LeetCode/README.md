@@ -1,9 +1,5 @@
 # LeetCode
 
-**Website**: [Click Here!](http://poj.org/) (http://poj.org/)
-
-**Problem List**: [Click Here!](https://www.cnblogs.com/upstart/p/6274521.html) (https://www.cnblogs.com/upstart/p/6274521.html)
-
 | #    | Title                 | Solution  | Difficulty | Method |
 | ---- | --------------------- | --------  | ---------- | ------ |
 | 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](./0001%20-%20Two%20Sum.cpp) | <span style="color:rgb(0,184,163)">Easy</span> ||
