@@ -1,24 +1,18 @@
 ﻿//
 // vector   #include <vector>
-// sort     #include <algorithm>
 //
+
 class Solution {
 public:
-    int numRescueBoats(vector<int>& people, int limit) {
-        sort(people.begin(), people.end());
-        auto left = people.begin();
-        auto right = people.end() - 1;
-        int ans = 0;
-        while (left <= right) {
-            if (*left + *right > limit) {
-                right--;
-            }
-            else {
-                left++;
-                right--;
-            }
-            ans++;
+    void reverseString(vector<char>& s) {
+        int left = 0;
+        int right = s.size() - 1;
+        while (left < right) {
+            char temp = s[left];
+            s[left] = s[right];
+            s[right] = temp;
+            left++;
+            right--;
         }
-        return ans;
     }
 };
