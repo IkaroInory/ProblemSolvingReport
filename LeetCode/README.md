@@ -18,6 +18,7 @@
 | 50   | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [C++](./0050%20-%20Pow(x%2C%20n)%20%5BRecursion%5D.cpp) | :yellow_heart: Medium | Recursion + Counting|
 | 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [C++](./0053%20-%20Maximum%20Subarray%20%5BDP%5D.cpp) | :green_heart: Easy | DP |
 | 58   | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [C++](./0058%20-%20Length%20of%20Last%20Word%20%5BReverse%20Traversal%5D.cpp) | :green_heart: Easy | Reverse Traversal |
+| 326  | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [C](./0326%20-%20Power%20of%20Three.c) | :green_heart: Easy ||
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C](./0541%20-%20Reverse%20String%20II.c) | :green_heart: Easy ||
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C#](./0541%20-%20Reverse%20String%20II.cs) | :green_heart: Easy ||
 | 725  | [Split Linked List in Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [C++](./0725%20-%20Split%20Linked%20List%20in%20Parts.cpp) | :yellow_heart: Medium | Ergodic + Split Linked List |
