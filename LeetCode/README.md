@@ -20,6 +20,7 @@
 | 58   | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [C++](./0058%20-%20Length%20of%20Last%20Word%20%5BReverse%20Traversal%5D.cpp) | :green_heart: Easy | Reverse Traversal |
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C](./0541%20-%20Reverse%20String%20II.c) | :green_heart: Easy ||
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C#](./0541%20-%20Reverse%20String%20II.cs) | :green_heart: Easy ||
+| 725  | [Split Linked List in Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [C++](./0725%20-%20Split%20Linked%20List%20in%20Parts.cpp) | :yellow_heart: Medium | Ergodic + Split Linked List |
 | 787  | [Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | [C++](./0787%20-%20Cheapest%20Flights%20Within%20K%20Stops%20-%20%5BBellman%20Ford%5D.cpp) | :yellow_heart: Medium | Bellman Ford |
 | 797  | [All Paths From Source to Target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | [C++](./0797%20-%20All%20Paths%20From%20Source%20to%20Target%20%5BDFS%5D.cpp) | :yellow_heart: Medium | DFS |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [C++](./1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BStack%5D.cpp) | :green_heart: Easy | Stack |
