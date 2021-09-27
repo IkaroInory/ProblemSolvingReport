@@ -9,12 +9,6 @@ Online Judge: [10.11.219.17](http://10.11.219.17/JudgeOnline/)
 
 Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingReport/tree/master/SZTU%20OJ/2021%20Object%20Oriented%20Programming)
 
-<style>
-    th {
-        text-align:center;
-    }
-</style>
-
 <table>
     <tr>
         <th>Contest Id</th>
