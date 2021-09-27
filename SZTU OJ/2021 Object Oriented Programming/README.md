@@ -17,7 +17,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <th>Solution</th>
     </tr>
     <tr>
-        <td rowspan="9">1020</td>
+        <th rowspan="9">1020</td>
         <td>1001</td>
         <td>A</td>
         <td>超重青蛙</td>
@@ -72,7 +72,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td><a href="./1010%20-%20矩阵左转.cpp">C++</a></td>
     </tr>
     <tr>
-        <td rowspan="5">1024</td>
+        <th rowspan="5">1024</td>
         <td>1012</td>
         <td>A</td>
         <td>月份查询</td>
@@ -103,7 +103,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td><a href="./1017%20-%20密钥加密法.cpp">C++</a></td>
     </tr>
         <tr>
-        <td rowspan="5">1028</td>
+        <th rowspan="5">1028</td>
         <td>1018</td>
         <td>A</td>
         <td>三数论大小</td>
@@ -135,7 +135,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
     </tr>
         </tr>
         <tr>
-        <td rowspan="6">1032</td>
+        <th rowspan="6">1032</td>
         <td>1026</td>
         <td>A</td>
         <td>对象数组</td>
