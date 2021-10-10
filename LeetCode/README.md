@@ -170,6 +170,21 @@
         <td>Binary Search</td>
     </tr>
     <tr>
+        <th rowspan="3">284</th>
+        <td rowspan="3"><a href="https://leetcode-cn.com/problems/peeking-iterator/">Peeking Iterator</a></td>
+        <td rowspan="3">:yellow_heart: Medium</td>
+        <td><a href="./src/0284%20-%20Peeking%20Iterator.c">C</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="./src/0284%20-%20Peeking%20Iterator.cs">C#</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="./src/0284%20-%20Peeking%20Iterator.java">Java</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>326</th>
         <td><a href="https://leetcode-cn.com/problems/power-of-three/">Power of Three</a></td>
         <td>:green_heart: Easy</td>
@@ -210,6 +225,13 @@
         <td>:green_heart: Easy</td>
         <td><a href="./src/0441%20-%20Arranging%20Coins.cpp">C++</a></td>
         <td>Math</td>
+    </tr>
+    <tr>
+        <th>482</th>
+        <td><a href="https://leetcode-cn.com/problems/license-key-formatting/">License Key Formatting</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0482%20-%20License%20Key%20Formatting.java">Java</a></td>
+        <td></td>
     </tr>
     <tr>
         <th rowspan="2">541</th>
