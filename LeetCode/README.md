@@ -27,3 +27,23 @@
 | 787  | [Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | [C++](./0787%20-%20Cheapest%20Flights%20Within%20K%20Stops%20-%20%5BBellman%20Ford%5D.cpp) | :yellow_heart: Medium | Bellman Ford |
 | 797  | [All Paths From Source to Target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | [C++](./0797%20-%20All%20Paths%20From%20Source%20to%20Target%20%5BDFS%5D.cpp) | :yellow_heart: Medium | DFS |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [C++](./1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BStack%5D.cpp) | :green_heart: Easy | Stack |
+
+
+There is a new Solution List.
+
+<table border="1">
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Solution</th>
+        <th>Difficulty</th>
+        <th>Method</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <td><a href="https://leetcode-cn.com/problems/two-sum/">Two Sum</a></td>
+        <td><a href="./0001%20-%20Two%20Sum.cpp">C++</a></td>
+        <td>:green_heart: Easy</td>
+        <td></td>
+    </tr>
+</table>
