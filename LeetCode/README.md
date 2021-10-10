@@ -20,6 +20,7 @@
 | 58   | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [C++](./0058%20-%20Length%20of%20Last%20Word%20%5BReverse%20Traversal%5D.cpp) | :green_heart: Easy | Reverse Traversal |
 | 237  | [Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](./0237%20-%20Delete%20Node%20in%20a%20Linked%20List.cpp) | :green_heart: Easy | Swap Next Node |
 | 326  | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [C](./0326%20-%20Power%20of%20Three.c) | :green_heart: Easy ||
+| 441  | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/) | [C++](./0441%20Arranging%20Coins.cpp) | :green_heart: Easy |
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C](./0541%20-%20Reverse%20String%20II.c) | :green_heart: Easy ||
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C#](./0541%20-%20Reverse%20String%20II.cs) | :green_heart: Easy ||
 | 725  | [Split Linked List in Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [C++](./0725%20-%20Split%20Linked%20List%20in%20Parts.cpp) | :yellow_heart: Medium | Ergodic + Split Linked List |
