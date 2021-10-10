@@ -177,6 +177,27 @@
         <td></td>
     </tr>
     <tr>
+        <th>344</th>
+        <td><a href="https://leetcode-cn.com/problems/reverse-string/">Reverse String</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0344%20-%20Reverse%20String%20%5BDouble%20Pointer%5D.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>345</th>
+        <td><a href="https://leetcode-cn.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0345%20-%20Reverse%20Vowels%20of%20a%20String.cs">C#</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>414</th>
+        <td><a href="https://leetcode-cn.com/problems/third-maximum-number/">Third Maximum Number</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0414%20-%20Third%20Maximum%20Number.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>441</th>
         <td><a href="https://leetcode-cn.com/problems/arranging-coins/">Arranging Coins</a></td>
         <td>:green_heart: Easy</td>
@@ -193,6 +214,13 @@
     <tr>
         <td><a href="./src/0541%20-%20Reverse%20String%20II.cs">C#</a></td>
         <td></td>
+    </tr>
+    <tr>
+        <th>704</th>
+        <td><a href="https://leetcode-cn.com/problems/binary-search/">Binary Search</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0704%20-%20Binary%20Search%20%5BBinary%20Search%5D.cpp">C++</a></td>
+        <td>Binary Search</td>
     </tr>
     <tr>
         <th>725</th>
@@ -216,11 +244,39 @@
         <td>Bellman Ford</td>
     </tr>
     <tr>
+        <th>789</th>
+        <td><a href="https://leetcode-cn.com/problems/escape-the-ghosts/">Escape The Ghosts</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/0789%20-%20Escape%20The%20Ghosts.cpp">C++</a></td>
+        <td>Manhattan Distance</td>
+    </tr>
+    <tr>
         <th>797</th>
         <td><a href="https://leetcode-cn.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
         <td>:yellow_heart: Medium</td>
         <td><a href="./src/0797%20-%20All%20Paths%20From%20Source%20to%20Target%20%5BDFS%5D.cpp">C++</a></td>
         <td>DFS</td>
+    </tr>
+    <tr>
+        <th>876</th>
+        <td><a href="https://leetcode-cn.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0876%20-%20Middle%20of%20the%20Linked%20List%20%5BSingle%20Pointer%5D.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>881</th>
+        <td><a href="https://leetcode-cn.com/problems/boats-to-save-people/">Boats to Save People</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/0881%20-%20Boats%20to%20Save%20People%20%5BDouble%20Pointer%5D.cpp">C++</a></td>
+        <td>Double Pointer</td>
+    </tr>
+    <tr>
+        <th>977</th>
+        <td><a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">Squares of a Sorted Array</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0977%20-%20Squares%20of%20a%20Sorted%20Array.cpp">C++</a></td>
+        <td></td>
     </tr>
     <tr>
         <th>1614</th>
@@ -234,6 +290,20 @@
         <td><a href="https://leetcode-cn.com/problems/get-maximum-in-generated-array/">Get Maximum in Generated Array</a></td>
         <td>:green_heart: Easy</td>
         <td><a href="./src/1646%20-%20Get%20Maximum%20in%20Generated%20Array.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Offer 10</th>
+        <td><a href="https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/">I. 斐波那契数列</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/剑指%20Offer%2010%20-%20I.%20斐波那契数列.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Offer 22</th>
+        <td><a href="https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/">链表中倒数第k个节点</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/剑指%20Offer%2022%20-%20链表中倒数第k个节点.cpp">C++</a></td>
         <td></td>
     </tr>
 </table>
