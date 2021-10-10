@@ -191,6 +191,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>405</th>
+        <td><a href="https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/">Convert a Number to Hexadecimal</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0405%20-%20Convert%20a%20Number%20to%20Hexadecimal.java">Java</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>414</th>
         <td><a href="https://leetcode-cn.com/problems/third-maximum-number/">Third Maximum Number</a></td>
         <td>:green_heart: Easy</td>
