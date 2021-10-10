@@ -170,8 +170,8 @@
         <td>Binary Search</td>
     </tr>
     <tr>
-        <th rowspan="3">284</th>
-        <td rowspan="3"><a href="https://leetcode-cn.com/problems/peeking-iterator/">Peeking Iterator</a></td>
+        <th rowspan="4">284</th>
+        <td rowspan="4"><a href="https://leetcode-cn.com/problems/peeking-iterator/">Peeking Iterator</a></td>
         <td rowspan="3">:yellow_heart: Medium</td>
         <td><a href="./src/0284%20-%20Peeking%20Iterator.c">C</a></td>
         <td></td>
@@ -182,6 +182,11 @@
     </tr>
     <tr>
         <td><a href="./src/0284%20-%20Peeking%20Iterator.java">Java</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>:yellow_heart: Medium, Advanced</td>
+        <td><a href="./src/0284%20-%20Peeking%20Iterator%20-%20Advanced.java">Java</a></td>
         <td></td>
     </tr>
     <tr>
