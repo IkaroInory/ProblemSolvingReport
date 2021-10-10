@@ -1,37 +1,6 @@
 # LeetCode
 
-| #    | Title                 | Solution  | Difficulty | Method |
-| ---- | --------------------- | --------  | ---------- | ------ |
-| 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](./0001%20-%20Two%20Sum.cpp) | :green_heart: Easy ||
-| 2    | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [C++](./0002%20-%20Add%20Two%20Numbers.cpp) | :yellow_heart: Medium ||
-| 4    | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [C++](./0004%20-%20Median%20of%20Two%20Sorted%20Arrays.cpp) | :heart: Hard ||
-| 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [C#](./0006%20-%20ZigZag%20Conversion.cs) | :yellow_heart: Medium ||
-| 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [C++](./0007%20-%20Reverse%20Integer.cpp) | :green_heart: Easy ||
-| 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [C++](./0011%20-%20Container%20With%20Most%20Water%20%5BDouble%20Pointer%5D.cpp) | :yellow_heart: Medium | Double Pointer |
-| 12   | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [C++](./0012%20-%20Integer%20to%20Roman%20%5BGreedy%20Algorithm%5D.cpp) | :yellow_heart: Medium | Greedy |
-| 13   | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [C++](./0013%20-%20Roman%20to%20Integer%20%5BSimulation%5D.cpp) | :green_heart: Easy | Simulation |
-| 19   | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [C++](./0019%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20%5BDouble%20Pointer%5D.cpp) | :yellow_heart: Medium | Double Pointer |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C#](./0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.cs) | :green_heart: Easy ||
-| 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [C++](./0032%20-%20Longest%20Valid%20Parentheses%20%5BStack%5D.cpp) | :heart: Hard | Stack |
-| 35   | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [C++](./0035%20-%20Search%20Insert%20Position%20%5BBinary%20Search%5D.cpp) | :green_heart: Easy | Binary Search |
-| 36   | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [C++](./0036%20-%20Valid%20Sudoku.cpp) | :yellow_heart: Medium ||
-| 50   | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [C++](./0050%20-%20Pow(x%2C%20n)%20%5BRecursion%5D.cpp) | :yellow_heart: Medium | Recursion + Counting|
-| 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [C++](./0053%20-%20Maximum%20Subarray%20%5BDP%5D.cpp) | :green_heart: Easy | DP |
-| 58   | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [C++](./0058%20-%20Length%20of%20Last%20Word%20%5BReverse%20Traversal%5D.cpp) | :green_heart: Easy | Reverse Traversal |
-| 237  | [Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](./0237%20-%20Delete%20Node%20in%20a%20Linked%20List.cpp) | :green_heart: Easy | Swap Next Node |
-| 326  | [Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [C](./0326%20-%20Power%20of%20Three.c) | :green_heart: Easy ||
-| 441  | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/) | [C++](./0441%20-%20Arranging%20Coins.cpp) | :green_heart: Easy | Math |
-| 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C](./0541%20-%20Reverse%20String%20II.c) | :green_heart: Easy ||
-| 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C#](./0541%20-%20Reverse%20String%20II.cs) | :green_heart: Easy ||
-| 725  | [Split Linked List in Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [C++](./0725%20-%20Split%20Linked%20List%20in%20Parts.cpp) | :yellow_heart: Medium | Ergodic + Split Linked List |
-| 787  | [Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | [C++](./0787%20-%20Cheapest%20Flights%20Within%20K%20Stops%20-%20%5BBellman%20Ford%5D.cpp) | :yellow_heart: Medium | Bellman Ford |
-| 797  | [All Paths From Source to Target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | [C++](./0797%20-%20All%20Paths%20From%20Source%20to%20Target%20%5BDFS%5D.cpp) | :yellow_heart: Medium | DFS |
-| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [C++](./1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BStack%5D.cpp) | :green_heart: Easy | Stack |
-
-
-There is a new Solution List.
-
-<table border="1">
+<table>
     <tr>
         <th>#</th>
         <th>Title</th>
@@ -41,9 +10,181 @@ There is a new Solution List.
     </tr>
     <tr>
         <th>1</th>
-        <td><a href="https://leetcode-cn.com/problems/two-sum/">Two Sum</a></td>
-        <td><a href="./0001%20-%20Two%20Sum.cpp">C++</a></td>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/two-sum/">Two Sum</a></td>
         <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0001%20-%20Two%20Sum.cpp">C++</a></td>
         <td></td>
+    </tr>
+    <tr>
+        <th>2</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/add-two-numbers/">Add Two Numbers</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0002%20-%20Add%20Two%20Numbers.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>4</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
+        <td>:heart: Hard</td>
+        <td><a target="_blank" href="./0004%20-%20Median%20of%20Two%20Sorted%20Arrays.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>6</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/zigzag-conversion/">ZigZag Conversion</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0006%20-%20ZigZag%20Conversion.cs">C#</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>7</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/reverse-integer/">Reverse Integer</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0007%20-%20Reverse%20Integer.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>11</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/container-with-most-water/">Container With Most Water</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0011%20-%20Container%20With%20Most%20Water%20%5BDouble%20Pointer%5D.cpp">C++</a></td>
+        <td>Double Pointer</td>
+    </tr>
+    <tr>
+        <th>12</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/integer-to-roman/">Integer to Roman</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0012%20-%20Integer%20to%20Roman%20%5BGreedy%20Algorithm%5D.cpp">C++</a></td>
+        <td>Greedy</td>
+    </tr>
+    <tr>
+        <th>13</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/roman-to-integer/">Roman to Integer</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0013%20-%20Roman%20to%20Integer%20%5BSimulation%5D.cpp">C++</a></td>
+        <td>Simulation</td>
+    </tr>
+    <tr>
+        <th>19</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0019%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20%5BDouble%20Pointer%5D.cpp">C++</a></td>
+        <td>Double Pointer</td>
+    </tr>
+    <tr>
+        <th>26</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.cs">C#</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>32</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/longest-valid-parentheses/">Longest Valid Parentheses</a></td>
+        <td>:heart: Hard</td>
+        <td><a target="_blank" href="./0032%20-%20Longest%20Valid%20Parentheses%20%5BStack%5D.cpp">C++</a></td>
+        <td>Stack</td>
+    </tr>
+    <tr>
+        <th>35</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/search-insert-position/">Search Insert Position</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0035%20-%20Search%20Insert%20Position%20%5BBinary%20Search%5D.cpp">C++</a></td>
+        <td>Binary Search</td>
+    </tr>
+    <tr>
+        <th>36</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/valid-sudoku/">Valid Sudoku</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0036%20-%20Valid%20Sudoku.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>50</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/powx-n/">Pow(x, n)</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0050%20-%20Pow(x%2C%20n)%20%5BRecursion%5D.cpp">C++</a></td>
+        <td>Recursion + Counting</td>
+    </tr>
+    <tr>
+        <th>53</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/maximum-subarray/">Maximum Subarray</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0053%20-%20Maximum%20Subarray%20%5BDP%5D.cpp">C++</a></td>
+        <td>DP</td>
+    </tr>
+    <tr>
+        <th>58</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/length-of-last-word/">Length of Last Word</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0058%20-%20Length%20of%20Last%20Word%20%5BReverse%20Traversal%5D.cpp">C++</a></td>
+        <td>Reverse Traversal</td>
+    </tr>
+    <tr>
+        <th>237</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0237%20-%20Delete%20Node%20in%20a%20Linked%20List.cpp">C++</a></td>
+        <td>Swap Next Node</td>
+    </tr>
+    <tr>
+        <th>326</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/power-of-three/">Power of Three</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0326%20-%20Power%20of%20Three.c">C</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>441</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/arranging-coins/">Arranging Coins</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./0441%20-%20Arranging%20Coins.cpp">C++</a></td>
+        <td>Math</td>
+    </tr>
+    <tr>
+        <th rowspan="2">541</th>
+        <td rowspan="2"><a target="_blank" href="https://leetcode-cn.com/problems/reverse-string-ii/">Reverse String II</a></td>
+        <td rowspan="2">:green_heart: Easy</td>
+        <td><a target="_blank" href="./0541%20-%20Reverse%20String%20II.c">C</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="./0541%20-%20Reverse%20String%20II.cs">C#</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>725</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0725%20-%20Split%20Linked%20List%20in%20Parts.cpp">C++</a></td>
+        <td>Ergodic + Split Linked List</td>
+    </tr>
+    <tr>
+        <th>735</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/asteroid-collision/">Asteroid Collision</a></td>
+        <td>:heart: Hard</td>
+        <td><a target="_blank" href="./0735%20-%20Asteroid%20Collision.cpp">C++</a></td>
+        <td>Stack</td>
+    </tr>
+    <tr>
+        <th>787</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/">Cheapest Flights Within K Stops</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0787%20-%20Cheapest%20Flights%20Within%20K%20Stops%20-%20%5BBellman%20Ford%5D.cpp">C++</a></td>
+        <td>Bellman Ford</td>
+    </tr>
+    <tr>
+        <th>797</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a target="_blank" href="./0797%20-%20All%20Paths%20From%20Source%20to%20Target%20%5BDFS%5D.cpp">C++</a></td>
+        <td>DFS</td>
+    </tr>
+    <tr>
+        <th>1614</th>
+        <td><a target="_blank" href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a target="_blank" href="./1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BStack%5D.cpp">C++</a></td>
+        <td>Stack</td>
     </tr>
 </table>
