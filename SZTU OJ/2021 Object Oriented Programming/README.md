@@ -148,14 +148,12 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
     </tr>
     <tr>
         <td>1029</td>
-        <td>C</td>
-        <td>点和圆</td>
+        <td rowspan="2">C</td>
+        <td rowspan="2">点和圆</td>
         <td><a href="./src/1029%20-%20点和圆.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1029</td>
-        <td>C</td>
-        <td>点和圆</td>
         <td><a href="./src/1029%20-%20点和圆.cs">C#</a></td>
     </tr>
     <tr>
