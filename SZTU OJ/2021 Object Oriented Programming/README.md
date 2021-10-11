@@ -193,7 +193,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1033</td>
         <td>C</td>
         <td>Point_Array</td>
-        <td><a href="./src/1033%20-%Point_Array.cs">C#</a></td>
+        <td><a href="./src/1033%20-%Point_Array.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1034</td>
