@@ -133,8 +133,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>求最大值最小值</td>
         <td><a href="./src/1133%20-%20求最大值最小值.cpp">C++</a></td>
     </tr>
-        </tr>
-        <tr>
+    <tr>
         <th rowspan="6">1032</td>
         <td>1026</td>
         <td>A</td>
@@ -170,5 +169,36 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>E</td>
         <td>身体评估</td>
         <td><a href="./src/1161%20-%20身体评估.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <th rowspan="5">1040</td>
+        <td>1030</td>
+        <td>A</td>
+        <td>Point</td>
+        <td><a href="./src/1030%20-%Point.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1031</td>
+        <td>B</td>
+        <td>Date</td>
+        <td><a href="./src/1031%20-%Date.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1032</td>
+        <td>C</td>
+        <td>分数类</td>
+        <td><a href="./src/1032%20-%分数类.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1033</td>
+        <td>C</td>
+        <td>Point_Array</td>
+        <td><a href="./src/1033%20-%Point_Array.cs">C#</a></td>
+    </tr>
+    <tr>
+        <td>1034</td>
+        <td>D</td>
+        <td>Stack</td>
+        <td><a href="./src/1034%20-%Stack.cpp">C++</a></td>
     </tr>
 </table>
