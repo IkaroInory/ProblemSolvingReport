@@ -175,30 +175,30 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1030</td>
         <td>A</td>
         <td>Point</td>
-        <td><a href="./src/1030%20-%Point.cpp">C++</a></td>
+        <td><a href="./src/1030%20-%20Point.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1031</td>
         <td>B</td>
         <td>Date</td>
-        <td><a href="./src/1031%20-%Date.cpp">C++</a></td>
+        <td><a href="./src/1031%20-%20Date.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1032</td>
         <td>C</td>
         <td>分数类</td>
-        <td><a href="./src/1032%20-%分数类.cpp">C++</a></td>
+        <td><a href="./src/1032%20-%20分数类.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1033</td>
         <td>D</td>
         <td>Point_Array</td>
-        <td><a href="./src/1033%20-%Point_Array.cpp">C++</a></td>
+        <td><a href="./src/1033%20-%20Point_Array.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1034</td>
         <td>E</td>
         <td>Stack</td>
-        <td><a href="./src/1034%20-%Stack.cpp">C++</a></td>
+        <td><a href="./src/1034%20-%20Stack.cpp">C++</a></td>
     </tr>
 </table>
