@@ -191,13 +191,13 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
     </tr>
     <tr>
         <td>1033</td>
-        <td>C</td>
+        <td>D</td>
         <td>Point_Array</td>
         <td><a href="./src/1033%20-%Point_Array.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1034</td>
-        <td>D</td>
+        <td>E</td>
         <td>Stack</td>
         <td><a href="./src/1034%20-%Stack.cpp">C++</a></td>
     </tr>
