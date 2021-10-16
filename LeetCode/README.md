@@ -340,4 +340,18 @@
         <td><a href="./src/剑指%20Offer%2022%20-%20链表中倒数第k个节点.cpp">C++</a></td>
         <td></td>
     </tr>
+    <tr>
+        <th>Offer 24</th>
+        <td><a href="https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/">反转链表</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/剑指%20Offer%2024%20-%20反转链表.java">C++</a></td>
+        <td>Iteration</td>
+    </tr>
+    <tr>
+        <th>Offer II 024</th>
+        <td><a href="https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/">反转链表</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/剑指%20Offer%20II%20024%20-%20反转链表.java">C++</a></td>
+        <td>Iteration</td>
+    </tr>
 </table>
