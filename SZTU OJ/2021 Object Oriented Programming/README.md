@@ -198,4 +198,35 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>Stack</td>
         <td><a href="./src/1034%20-%20Stack.cpp">C++</a></td>
     </tr>
+    <tr>
+        <th rowspan="5">1044</td>
+        <td>1044</td>
+        <td>A</td>
+        <td>Equation</td>
+        <td><a href="./src/1044%20-%20Equation.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1049</td>
+        <td>B</td>
+        <td>对象是怎样构造的</td>
+        <td><a href="./src/1049%20-%20对象是怎样构造的.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1050</td>
+        <td>C</td>
+        <td>电话号码升位</td>
+        <td><a href="./src/1050%20-%20电话号码升位.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1051</td>
+        <td>D</td>
+        <td>软件备份</td>
+        <td><a href="./src/1051%20-%20软件备份.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1052</td>
+        <td>E</td>
+        <td>手机服务</td>
+        <td><a href="./src/1052%20-%20手机服务.cpp">C++</a></td>
+    </tr>
 </table>
