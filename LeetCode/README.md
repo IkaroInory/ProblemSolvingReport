@@ -156,6 +156,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>229</th>
+        <td><a href="https://leetcode-cn.com/problems/majority-element-ii/">Majority Element II</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/0229%20-%20Majority%20Element%20II.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>237</th>
         <td><a href="https://leetcode-cn.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</a></td>
         <td>:green_heart: Easy</td>
