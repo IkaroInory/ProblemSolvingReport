@@ -14,6 +14,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <th>Contest Id</th>
         <th colspan="2">#</th>
         <th>Title</th>
+        <th>Type</th>
         <th>Solution</th>
     </tr>
     <tr>
@@ -21,54 +22,63 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1001</td>
         <td>A</td>
         <td>超重青蛙</td>
+        <td></td>
         <td><a href="./src/1001%20-%20超重青蛙.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1002</td>
         <td>B</td>
         <td>表面积计算</td>
+        <td></td>
         <td><a href="./src/1002%20-%20表面积计算.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1003</td>
         <td>C</td>
         <td>表达式求值</td>
+        <td></td>
         <td><a href="./src/1003%20-%20表达式求值.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1004</td>
         <td>D</td>
         <td>成绩评定</td>
+        <td></td>
         <td><a href="./src/1004%20-%20成绩评定.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1006</td>
         <td>E</td>
         <td>三数论大小</td>
+        <td></td>
         <td><a href="./src/1006%20-%20三数论大小.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1007</td>
         <td>F</td>
         <td>货币兑换</td>
+        <td></td>
         <td><a href="./src/1007%20-%20货币兑换.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1008</td>
         <td>G</td>
         <td>动态数组</td>
+        <td></td>
         <td><a href="./src/1008%20-%20动态数组.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1009</td>
         <td>H</td>
         <td>三串合一</td>
+        <td></td>
         <td><a href="./src/1009%20-%20三串合一.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1010</td>
         <td>I</td>
         <td>矩阵左转</td>
+        <td></td>
         <td><a href="./src/1010%20-%20矩阵左转.cpp">C++</a></td>
     </tr>
     <tr>
@@ -76,30 +86,35 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1012</td>
         <td>A</td>
         <td>月份查询</td>
+        <td></td>
         <td><a href="./src/1012%20-%20月份查询.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1013</td>
         <td>B</td>
         <td>字符串比较</td>
+        <td></td>
         <td><a href="./src/1013%20-%20字符串比较.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1014</td>
         <td>C</td>
         <td>成绩查询</td>
+        <td></td>
         <td><a href="./src/1014%20-%20成绩查询.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1015</td>
         <td>D</td>
         <td>动态矩阵</td>
+        <td></td>
         <td><a href="./src/1015%20-%20动态矩阵.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1017</td>
         <td>E</td>
         <td>密钥加密法</td>
+        <td></td>
         <td><a href="./src/1017%20-%20密钥加密法.cpp">C++</a></td>
     </tr>
         <tr>
@@ -107,30 +122,35 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1018</td>
         <td>A</td>
         <td>三数论大小</td>
+        <td></td>
         <td><a href="./src/1018%20-%20三数论大小.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1019</td>
         <td>B</td>
         <td>谁是老二</td>
+        <td></td>
         <td><a href="./src/1019%20-%20谁是老二.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1020</td>
         <td>C</td>
         <td>抄袭查找</td>
+        <td></td>
         <td><a href="./src/1020%20-%20抄袭查找.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1132</td>
         <td>D</td>
         <td>小票输入输出</td>
+        <td></td>
         <td><a href="./src/1132%20-%20小票输入输出.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1133</td>
         <td>E</td>
         <td>求最大值最小值</td>
+        <td></td>
         <td><a href="./src/1133%20-%20求最大值最小值.cpp">C++</a></td>
     </tr>
     <tr>
@@ -138,18 +158,21 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1026</td>
         <td>A</td>
         <td>对象数组</td>
+        <td></td>
         <td><a href="./src/1026%20-%20对象数组.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1155</td>
         <td>B</td>
         <td>存折类定义</td>
+        <td></td>
         <td><a href="./src/1155%20-%20存折类定义.cpp">C++</a></td>
     </tr>
     <tr>
         <td rowspan="2">1029</td>
         <td rowspan="2">C</td>
         <td rowspan="2">点和圆</td>
+        <td rowspan="2"></td>
         <td><a href="./src/1029%20-%20点和圆.cpp">C++</a></td>
     </tr>
     <tr>
@@ -159,12 +182,14 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1159</td>
         <td>D</td>
         <td>最胖的加菲</td>
+        <td></td>
         <td><a href="./src/1159%20-%20最胖的加菲.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1161</td>
         <td>E</td>
         <td>身体评估</td>
+        <td></td>
         <td><a href="./src/1161%20-%20身体评估.cpp">C++</a></td>
     </tr>
     <tr>
@@ -172,30 +197,35 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1030</td>
         <td>A</td>
         <td>Point</td>
+        <td></td>
         <td><a href="./src/1030%20-%20Point.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1031</td>
         <td>B</td>
         <td>Date</td>
+        <td></td>
         <td><a href="./src/1031%20-%20Date.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1032</td>
         <td>C</td>
         <td>分数类</td>
+        <td></td>
         <td><a href="./src/1032%20-%20分数类.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1033</td>
         <td>D</td>
         <td>Point_Array</td>
+        <td></td>
         <td><a href="./src/1033%20-%20Point_Array.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1034</td>
         <td>E</td>
         <td>Stack</td>
+        <td></td>
         <td><a href="./src/1034%20-%20Stack.cpp">C++</a></td>
     </tr>
     <tr>
@@ -203,30 +233,71 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1044</td>
         <td>A</td>
         <td>Equation</td>
+        <td></td>
         <td><a href="./src/1044%20-%20Equation.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1049</td>
         <td>B</td>
         <td>对象是怎样构造的</td>
+        <td></td>
         <td><a href="./src/1049%20-%20对象是怎样构造的.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1050</td>
         <td>C</td>
         <td>电话号码升位</td>
+        <td></td>
         <td><a href="./src/1050%20-%20电话号码升位.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1051</td>
         <td>D</td>
         <td>软件备份</td>
+        <td></td>
         <td><a href="./src/1051%20-%20软件备份.cpp">C++</a></td>
     </tr>
     <tr>
         <td>1052</td>
         <td>E</td>
         <td>手机服务</td>
+        <td></td>
         <td><a href="./src/1052%20-%20手机服务.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <th rowspan="5">1048</td>
+        <td>1055</td>
+        <td>A</td>
+        <td>距离计算</td>
+        <td>Friend Function</td>
+        <td><a href="./src/1055%20-%20距离计算.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1056</td>
+        <td>B</td>
+        <td>银行账户</td>
+        <td>Static Member & Friend Function</td>
+        <td><a href="./src/1056%20-%20银行账户.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1057</td>
+        <td>C</td>
+        <td>复数运算</td>
+        <td>Friend Function</td>
+        <td><a href="./src/1057%20-%20复数运算.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1058</td>
+        <td>D</td>
+        <td>旅馆顾客统计</td>
+        <td>Static Member</td>
+        <td><a href="./src/1058%20-%20旅馆顾客统计.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1061</td>
+        <td>E</td>
+        <td>日期时间合并输出</td>
+        <td>Friend Function</td>
+        <td><a href="./src/1061%20-%20日期时间合并输出.cpp">C++</a></td>
     </tr>
 </table>
