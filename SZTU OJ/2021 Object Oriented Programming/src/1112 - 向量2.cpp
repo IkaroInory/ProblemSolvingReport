@@ -59,7 +59,6 @@ int main()
         Add(v1, v2).print();
 
         delete[] list1, list2;
-
     }
     return 0;
 }
