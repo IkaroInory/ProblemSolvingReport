@@ -9,6 +9,8 @@ Online Judge: [10.11.219.17](http://10.11.219.17/JudgeOnline/)
 
 Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingReport/tree/master/SZTU%20OJ/2021%20Object%20Oriented%20Programming)
 
+注：由于某些原因，某些用户可能无法访问[github.com](https://github.com/IkaroInory/ProblemSolvingReport)，因此我在[gitee.com](https://gitee.com/ikaroinory/ProblemSolvingReport)上托管了一份备份。如果可以，我仍然建议访问[github.com](https://github.com/IkaroInory/ProblemSolvingReport).
+
 <table>
     <tr>
         <th>Contest Id</th>
