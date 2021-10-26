@@ -13,10 +13,6 @@ private:
 public:
     Date(int y, int m, int d) : year(y), month(m), day(d) {}
 
-    int getYear() { return year; }
-    int getMonth() { return month; }
-    int getDay() { return day; }
-
     friend void Display(Date& d, Time& t);
 };
 class Time {
@@ -27,15 +23,11 @@ private:
 public:
     Time(int h, int m, int s) : hour(h), minute(m), second(s) {}
 
-    int getHour() { return hour; }
-    int getMinute() { return minute; }
-    int getSecond() { return second; }
-
     friend void Display(Date& d, Time& t);
 };
 
 void Display(Date& d, Time& t) {
-    printf("%04d-%02d-%02d %02d:%02d:%02d\n", d.getYear(), d.getMonth(), d.getDay(), t.getHour(), t.getMinute(), t.getSecond());
+    printf("%04d-%02d-%02d %02d:%02d:%02d\n", d.year, d.month, d.day, t.hour, t.minute, t.second);
 }
 
 int main() {
