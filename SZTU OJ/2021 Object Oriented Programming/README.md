@@ -217,8 +217,8 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
     <tr>
         <td>1033</td>
         <td>D</td>
+        <td>Point_Array</td>
         <td>Class & Constructor & Object Array</td>
-        <td></td>
         <td><a href="./src/1033%20-%20Point_Array.cpp">C++</a></td>
     </tr>
     <tr>
