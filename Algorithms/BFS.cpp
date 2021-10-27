@@ -14,13 +14,13 @@ vector<string> BFS(TreeNode* tree) {
     open.push(tree);
     while (!open.empty()) {
         TreeNode* temp = open.front();
+        open.pop();
         if (temp == nullptr) close.emplace_back("null");
         else {
             close.emplace_back(to_string(temp->val));
             open.push(temp->left);
             open.push(temp->right);
         }
-        open.pop();
     }
     return close;
 }
