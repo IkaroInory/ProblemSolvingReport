@@ -181,6 +181,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>260</th>
+        <td><a href="https://leetcode-cn.com/problems/single-number-iii/">Single Number III</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/0260%20-%20Single%20Number%20III%20%5BHashmap%5D.cpp">C++</a></td>
+        <td>Hashmap</td>
+    </tr>
+    <tr>
         <th>278</th>
         <td><a href="https://leetcode-cn.com/problems/first-bad-version/">First Bad Version</a></td>
         <td>:green_heart: Easy</td>
