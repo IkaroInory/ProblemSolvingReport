@@ -314,7 +314,7 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>1112</td>
         <td>B</td>
         <td>向量2</td>
-        <td>Friend & Copy Function</td>
+        <td>Friend & Copy Constructor</td>
         <td><a href="./src/1112%20-%20向量2.cpp">C++</a></td>
     </tr>
     <tr>
@@ -337,5 +337,34 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>向量5</td>
         <td>Friend Class</td>
         <td><a href="./src/1115%20-%20向量5.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <th rowspan="4">1053</td>
+        <td>1118</td>
+        <td>A</td>
+        <td>机器人变身</td>
+        <td>Class & Object</td>
+        <td><a href="./src/1118%20-%20机器人变身.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1119</td>
+        <td>B</td>
+        <td>虚拟电话</td>
+        <td>Constructor & Destructor</td>
+        <td><a href="./src/1119%20-%20虚拟电话.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1120</td>
+        <td>C</td>
+        <td>银行账户</td>
+        <td>Copy Constructor</td>
+        <td><a href="./src/1120%20-%20银行账户.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1121</td>
+        <td>D</td>
+        <td>电视遥控</td>
+        <td>Static Member & Friend</td>
+        <td><a href="./src/1120%20-%20电视遥控.cpp">C++</a></td>
     </tr>
 </table>
