@@ -264,6 +264,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>677</th>
+        <td><a href="https://leetcode-cn.com/problems/map-sum-pairs/">Map Sum Pairs</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/0677%20-%20Map%20Sum%20Pairs.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th rowspan="2">541</th>
         <td rowspan="2"><a href="https://leetcode-cn.com/problems/reverse-string-ii/">Reverse String II</a></td>
         <td rowspan="2">:green_heart: Easy</td>
