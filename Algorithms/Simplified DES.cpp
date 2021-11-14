@@ -154,6 +154,11 @@ bit SimplifiedDES_Encryption(bit message, bit key) {
 
     bit m = message.getTransformation(ip);
     for (int i = 0; i < COUNT; i++) {
+        if (i != 0) {
+            bit left = m.split(4)[0];
+            bit right = m.split(4)[1];
+            m = bit::merge(right, left);
+        }
         bit left = m.split(4)[0];
         bit right = m.split(4)[1];
         bit right_copy = m.split(4)[1];
@@ -180,6 +185,11 @@ bit SimplifiedDES_Decryption(bit ciphertext, bit key) {
 
     bit c = ciphertext.getTransformation(ip);
     for (int i = 0; i < COUNT; i++) {
+        if (i != 0) {
+            bit left = c.split(4)[0];
+            bit right = c.split(4)[1];
+            c = bit::merge(right, left);
+        }
         bit left = c.split(4)[0];
         bit right = c.split(4)[1];
         bit right_copy = c.split(4)[1];
