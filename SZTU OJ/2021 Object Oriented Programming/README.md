@@ -367,4 +367,83 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>Static Member & Friend</td>
         <td><a href="./src/1120%20-%20电视遥控.cpp">C++</a></td>
     </tr>
+    <tr>
+        <th rowspan="6">1057</td>
+        <td>1067</td>
+        <td>A</td>
+        <td>圆和圆柱体计算</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1067%20-%20圆和圆柱体计算.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1068</td>
+        <td>B</td>
+        <td>三维空间的点</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1068%20-%20三维空间的点.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1072</td>
+        <td>C</td>
+        <td>时钟模拟</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1072%20-%20时钟模拟.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1073</td>
+        <td>D</td>
+        <td>新旧身份证</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1073%20-%20新旧身份证.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1174</td>
+        <td>E</td>
+        <td>学生成绩计算</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1174%20-%20学生成绩计算.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1178</td>
+        <td>F</td>
+        <td>日程安排</td>
+        <td>Inheritance & Friend Function</td>
+        <td><a href="./src/1178%20-%20日程安排.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <th rowspan="5">1061</td>
+        <td>1063</td>
+        <td>A</td>
+        <td>图形面积</td>
+        <td>Virtual Function & Polymorphism</td>
+        <td><a href="./src/1063%20-%20图形面积.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1064</td>
+        <td>B</td>
+        <td>支票账户</td>
+        <td>Virtual Function & Polymorphism</td>
+        <td><a href="./src/1064%20-%20支票账户.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1069</td>
+        <td>C</td>
+        <td>在职研究生</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1069%20-%20在职研究生.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1075</td>
+        <td>D</td>
+        <td>商旅信用卡</td>
+        <td>Inheritance</td>
+        <td><a href="./src/1075%20-%20商旅信用卡.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1179</td>
+        <td>E</td>
+        <td>汽车收费</td>
+        <td>Virtual Function & Polymorphism</td>
+        <td><a href="./src/1179%20-%20汽车收费.cpp">C++</a></td>
+    </tr>
 </table>
