@@ -446,4 +446,40 @@ Github Repository: [github.com](https://github.com/IkaroInory/ProblemSolvingRepo
         <td>Virtual Function & Polymorphism</td>
         <td><a href="./src/1179%20-%20汽车收费.cpp">C++</a></td>
     </tr>
+    <tr>
+        <th rowspan="5">1065</td>
+        <td>1078</td>
+        <td>A</td>
+        <td>分数的加减乘除</td>
+        <td>Operator Overload</td>
+        <td><a href="./src/1078%20-%20分数的加减乘除.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1079</td>
+        <td>B</td>
+        <td>复数的加减乘除运算</td>
+        <td>Operator Overload</td>
+        <td><a href="./src/1079%20-%20复数的加减乘除运算.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1080</td>
+        <td>C</td>
+        <td>三维坐标点的平移</td>
+        <td>Operator Overload</td>
+        <td><a href="./src/1080%20-%20三维坐标点的平移.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1082</td>
+        <td>D</td>
+        <td>矩阵相乘</td>
+        <td>Operator Overload</td>
+        <td><a href="./src/1075%20-%20矩阵相乘.cpp">C++</a></td>
+    </tr>
+    <tr>
+        <td>1083</td>
+        <td>E</td>
+        <td>学生生日差值计算</td>
+        <td>Operator Overload</td>
+        <td><a href="./src/1083%20-%20学生生日差值计算.cpp">C++</a></td>
+    </tr>
 </table>

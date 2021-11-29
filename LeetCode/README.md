@@ -65,11 +65,32 @@
         <td>Simulation</td>
     </tr>
     <tr>
+        <th>14</th>
+        <td><a href="https://leetcode-cn.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0014%20-%20Longest%20Common%20Prefix.cpp">C++</a></td>
+        <td>Simulation</td>
+    </tr>
+    <tr>
         <th>19</th>
         <td><a href="https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
         <td>:yellow_heart: Medium</td>
         <td><a href="./src/0019%20-%20Remove%20Nth%20Node%20From%20End%20of%20List%20%5BDouble%20Pointer%5D.cpp">C++</a></td>
         <td>Double Pointer</td>
+    </tr>
+    <tr>
+        <th>21</th>
+        <td><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0021%20-%20Merge%20Two%20Sorted%20Lists%20%5BPriority%20Queue%5D.cpp">C++</a></td>
+        <td>Priority Queue</td>
+    </tr>
+    <tr>
+        <th>23</th>
+        <td><a href="https://leetcode-cn.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a></td>
+        <td>:heart: Hard</td>
+        <td><a href="./src/0023%20-%20Merge%20k%20Sorted%20Lists%20%5BPriority%20Queue%5D.cpp">C++</a></td>
+        <td>Priority Queue</td>
     </tr>
     <tr>
         <th>26</th>
