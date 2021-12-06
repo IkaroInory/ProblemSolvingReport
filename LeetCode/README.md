@@ -257,6 +257,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>383</th>
+        <td><a href="https://leetcode-cn.com/problems/ransom-note/">Ransom Note</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0383%20-%20Ransom%20Note.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>405</th>
         <td><a href="https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/">Convert a Number to Hexadecimal</a></td>
         <td>:green_heart: Easy</td>
@@ -366,6 +373,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>1005</th>
+        <td><a href="https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/">Maximize Sum Of Array After K Negations</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/1005%20-%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations%20%5BSimulation%5D.cpp">C++</a></td>
+        <td>[Simulation]</td>
+    </tr>
+    <tr>
         <th>1614</th>
         <td><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
         <td>:green_heart: Easy</td>
@@ -377,6 +391,13 @@
         <td><a href="https://leetcode-cn.com/problems/get-maximum-in-generated-array/">Get Maximum in Generated Array</a></td>
         <td>:green_heart: Easy</td>
         <td><a href="./src/1646%20-%20Get%20Maximum%20in%20Generated%20Array.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>1816</th>
+        <td><a href="https://leetcode-cn.com/problems/truncate-sentence/">Truncate Sentence</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/1816%20-%20Truncate%20Sentence.cpp">C++</a></td>
         <td></td>
     </tr>
     <tr>
