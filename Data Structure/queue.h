@@ -13,6 +13,17 @@ typedef struct queue
     int size;
 } queue;
 
+void init(queue* q);
+void push(queue* q, int val);
+void pop(queue* q);
+int empty(queue q);
+int front(queue q);
+int same(queue q);
+node* differ(queue q);
+void erase(queue* q, node* from, node* to);
+void print(queue q);
+void clear(queue* q);
+
 void init(queue* q)
 {
     q->head = NULL;
@@ -86,13 +97,17 @@ node* differ(queue q)
 }
 void erase(queue* q, node* from, node* to)
 {
+    if (to == NULL)
+    {
+        clear(q);
+        return;
+    }
+
     if (from != q->head)
     {
         node* cur = q->head;
         while (cur->next != from)
-        {
             cur = cur->next;
-        }
         node* del = cur->next;
         while (del != to)
         {
@@ -100,14 +115,13 @@ void erase(queue* q, node* from, node* to)
             cur->next = del->next;
             del = del->next;
             free(delNode);
+            q->size--;
         }
     }
     else
     {
         while (q->head != to)
-        {
             pop(q);
-        }
     }
 }
 void print(queue q)
