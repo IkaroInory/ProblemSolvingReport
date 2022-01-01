@@ -373,6 +373,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>997</th>
+        <td><a href="https://leetcode-cn.com/problems/find-the-town-judge/">Find the Town Judge</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/0997%20-%20Find%20the%20Town%20Judge.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>1005</th>
         <td><a href="https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/">Maximize Sum Of Array After K Negations</a></td>
         <td>:green_heart: Easy</td>
@@ -399,6 +406,21 @@
         <td>:green_heart: Easy</td>
         <td><a href="./src/1816%20-%20Truncate%20Sentence.cpp">C++</a></td>
         <td></td>
+    </tr>
+    <tr>
+        <th rowspan="3">2022</th>
+        <td rowspan="3"><a href="https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/">Convert 1D Array Into 2D Array</a></td>
+        <td rowspan="3">:green_heart: Easy</td>
+        <td><a href="./src/2022%20-%20Convert%201D%20Array%20Into%202D%20Array%20%5BSimulation%5D.cpp">C++</a></td>
+        <td>Simulation</td>
+    </tr>
+    <tr>
+        <td><a href="./src/2022%20-%20Convert%201D%20Array%20Into%202D%20Array%20%5BSimulation%5D.cs">C#</a></td>
+        <td>Simulation</td>
+    </tr>
+    <tr>
+        <td><a href="./src/2022%20-%20Convert%201D%20Array%20Into%202D%20Array%20%5BCopy%5D.cs">C++</a></td>
+        <td>Copy</td>
     </tr>
     <tr>
         <th>Offer 10</th>
