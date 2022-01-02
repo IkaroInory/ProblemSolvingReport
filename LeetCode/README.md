@@ -264,6 +264,13 @@
         <td></td>
     </tr>
     <tr>
+        <th>390</th>
+        <td><a href="https://leetcode-cn.com/problems/elimination-game/">Elimination Game</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/0390%20-%20Elimination%20Game%20%5BSequence%5D.cpp">C++</a></td>
+        <td><a href="https://leetcode-cn.com/problems/elimination-game/solution/a-meng-ti-jie-xiao-chu-you-xi-by-ikaroin-pvg0/">Sequence</a></td>
+    </tr>
+    <tr>
         <th>405</th>
         <td><a href="https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/">Convert a Number to Hexadecimal</a></td>
         <td>:green_heart: Easy</td>
