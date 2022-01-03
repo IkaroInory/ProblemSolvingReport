@@ -393,6 +393,16 @@
         <td>Simulation</td>
     </tr>
     <tr>
+        <th rowspan="2">1185</th>
+        <td rowspan="2"><a href="https://leetcode-cn.com/problems/day-of-the-week/">Day of the Week</a></td>
+        <td rowspan="2">:green_heart: Easy</td>
+        <td><a href="./src/1185%20-%20Day%20of%20the%20Week%20%5BSimulation%5D.cpp">C++</a></td>
+        <td rowspan="2"><a href="https://leetcode-cn.com/problems/day-of-the-week/solution/a-meng-ti-jie-yi-zhou-zhong-de-di-ji-tia-ryag/">Simulation</a></td>
+    </tr>
+    <tr>
+        <td><a href="./src/1185%20-%20Day%20of%20the%20Week%20%5BSimulation%5D.cs">C#</a></td>
+    </tr>
+    <tr>
         <th>1614</th>
         <td><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
         <td>:green_heart: Easy</td>
