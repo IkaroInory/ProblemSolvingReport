@@ -1,5 +1,17 @@
 # LeetCode Problem List
 
+Hello everyone!
+
+This is a problem solving report set about [LeetCode](https://leetcode-cn.com/problemset/all/).  
+The code for all the problems have been solved has been published, and some problems have method.  
+You can click the column of **Method** where has highline content can be clicked to browse problem solving report.  
+
+Have a nice algorithm experience!
+
+---
+
+## Problem List
+
 <table>
     <tr>
         <th>#</th>
