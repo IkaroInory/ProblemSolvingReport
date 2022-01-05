@@ -403,6 +403,13 @@
         <td><a href="./src/1185%20-%20Day%20of%20the%20Week%20%5BSimulation%5D.cs">C#</a></td>
     </tr>
     <tr>
+        <th>1576</th>
+        <td><a href="https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/">Replace All ?'s to Avoid Consecutive Repeating Characters</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/1576%20-%20Replace%20All%20Question%20Marks%20to%20Avoid%20Consecutive%20Repeating%20Characters%20%5BErgodic%5D.cpp">C++</a></td>
+        <td><a href="https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/a-meng-ti-jie-ti-huan-suo-you-de-wen-hao-wp5k/">Ergodic</a></td>
+    </tr>
+    <tr>
         <th>1614</th>
         <td><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
         <td>:green_heart: Easy</td>
