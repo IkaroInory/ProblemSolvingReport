@@ -432,11 +432,24 @@ Have a nice algorithm experience!
         <td><a href="https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/a-meng-ti-jie-ti-huan-suo-you-de-wen-hao-wp5k/">Ergodic</a></td>
     </tr>
     <tr>
-        <th>1614</th>
-        <td><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
-        <td>:green_heart: Easy</td>
+        <th rowspan="5">1614</th>
+        <td rowspan="5"><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
+        <td rowspan="5">:green_heart: Easy</td>
         <td><a href="./src/1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BStack%5D.cpp">C++</a></td>
-        <td>Stack</td>
+        <td rowspan="2"><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/solution/a-meng-ti-jie-by-ikaroinory233-yif5/">Stack</a></td>
+    </tr>
+    <tr>
+        <td><a href="./src/1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BStack%5D.cs">C#</a></td>
+    </tr>
+    <tr>
+        <td><a href="./src/1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BErgodic%5D.c++">C++</a></td>
+        <td rowspan="3"><a href="https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/solution/a-meng-ti-jie-by-ikaroinory233-yif5/">Ergodic</a></td>
+    </tr>
+    <tr>
+        <td><a href="./src/1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BErgodic%5D.cs">C#</a></td>
+    </tr>
+    <tr>
+        <td><a href="./src/1614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses%20%5BErgodic%5D.py">Python3</a></td>
     </tr>
     <tr>
         <th>1646</th>
