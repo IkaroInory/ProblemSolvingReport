@@ -2,7 +2,7 @@
 
 Hello everyone!
 
-This is a problem solving report set about [LeetCode](https://leetcode-cn.com/problemset/all/).  
+This is a problem solving report set about [LeetCode](https://leetcode-cn.com/problemset/all/)(leetcode-cn.com).  
 The code for all the problems have been solved has been published, and some problems have method.  
 You can click the column of **Method** where has highline content can be clicked to browse problem solving report.  
 
@@ -152,6 +152,16 @@ Have a nice algorithm experience!
         <td>:green_heart: Easy</td>
         <td><a href="./src/0058%20-%20Length%20of%20Last%20Word%20%5BReverse%20Traversal%5D.cpp">C++</a></td>
         <td>Reverse Traversal</td>
+    </tr>
+    <tr>
+        <th rowspan="2">71</th>
+        <td rowspan="2"><a href="https://leetcode-cn.com/problems/simplify-path/">Simplify Path</a></td>
+        <td rowspan="2">:yellow_heart: Medium</td>
+        <td><a href="./src/0071%20-%20Simplify%20Path%20%5BStack%5D.cpp">C++</a></td>
+        <td rowspan="2"><a href="https://leetcode-cn.com/problems/simplify-path/solution/a-meng-ti-jie-jian-hua-lu-jing-by-ikaroi-hzr7/">Stack</a></td>
+    </tr>
+    <tr>
+        <td><a href="./src/0071%20-%20Simplify%20Path%20%5BStack%5D.cs">C#</a></td>
     </tr>
     <tr>
         <th>88</th>
