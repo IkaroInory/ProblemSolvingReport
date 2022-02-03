@@ -4,7 +4,7 @@
 class PeekingIterator implements Iterator<Integer> {
     private Iterator<Integer> _iterator;
     private Integer _nextValue;
-    
+
     public PeekingIterator(Iterator<Integer> iterator) {
         _iterator = iterator;
         _nextValue = iterator.next();

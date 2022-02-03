@@ -425,6 +425,13 @@ Have a nice algorithm experience!
         <td><a href="./src/1185%20-%20Day%20of%20the%20Week%20%5BSimulation%5D.cs">C#</a></td>
     </tr>
     <tr>
+        <th>1414</th>
+        <td><a href="https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/">Find the Minimum Number of Fibonacci Numbers Whose Sum Is K</a></td>
+        <td>:yellow_heart: Medium</td>
+        <td><a href="./src/1414%20-%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K%20%5BGreedy%5D.py">Python</a></td>
+        <td>Greedy</td>
+    </tr>
+    <tr>
         <th>1576</th>
         <td><a href="https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/">Replace All ?'s to Avoid Consecutive Repeating Characters</a></td>
         <td>:green_heart: Easy</td>
