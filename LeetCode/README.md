@@ -17,8 +17,8 @@ Have a nice algorithm experience!
         <th>#</th>
         <th>Title</th>
         <th>Difficulty</th>
-        <th>Solution</th>
-        <th>Method</th>
+        <th>Solutions</th>
+        <th>Methods</th>
     </tr>
     <tr>
         <th>1</th>
@@ -329,6 +329,7 @@ Have a nice algorithm experience!
     </tr>
     <tr>
         <td><a href="./src/0541%20-%20Reverse%20String%20II.cs">C#</a></td>
+        <td></td>
     </tr>
     <tr>
         <th>677</th>
@@ -466,10 +467,31 @@ Have a nice algorithm experience!
         <td></td>
     </tr>
     <tr>
+        <th>1725</th>
+        <td><a href="https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/">Number Of Rectangles That Can Form The Largest Square</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/1725%20-%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square%20%5BErgodic%5D.cpp">C++</a></td>
+        <td>Ergodic</td>
+    </tr>
+    <tr>
+        <th>1748</th>
+        <td><a href="https://leetcode-cn.com/problems/sum-of-unique-elements/">Sum of Unique Elements</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/1748%20-%20Sum%20of%20Unique%20Elements%20%5BStatistics%5D.cpp">C++</a></td>
+        <td>Statistics</td>
+    </tr>
+    <tr>
         <th>1816</th>
         <td><a href="https://leetcode-cn.com/problems/truncate-sentence/">Truncate Sentence</a></td>
         <td>:green_heart: Easy</td>
         <td><a href="./src/1816%20-%20Truncate%20Sentence.cpp">C++</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>2000</th>
+        <td><a href="https://leetcode-cn.com/problems/reverse-prefix-of-word/">Reverse Prefix of Word</a></td>
+        <td>:green_heart: Easy</td>
+        <td><a href="./src/2000%20-%20Reverse%20Prefix%20of%20Word.cpp">C++</a></td>
         <td></td>
     </tr>
     <tr>
